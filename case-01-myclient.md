@@ -11,6 +11,7 @@ CASE STUDY #01 - WordPress Hardening + Brute-Force Detection Date: 13  Aug 2026
 ::1 - - [13/Aug/2026:00:19:27 +0500] "POST /myclient/wp-login.php HTTP/1.1" 200 6115 "http://localhost/myclient/wp-login.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" 
 ::1 - - [13/Aug/2026:00:19:33 +0500] "POST /myclient/wp-login.php HTTP/1.1" 200 6123 "http://localhost/myclient/wp-login.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" 
 ::1 - - [13/Aug/2026:00:19:41 +0500] "POST /myclient/wp-login.php HTTP/1.1" 200 6115 "http://localhost/myclient/wp-login.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+ <img width="1356" height="87" alt="logs" src="https://github.com/user-attachments/assets/ec26f90d-a41d-4946-b5f0-94b8fff3cb06" />
 
 --- ACTIONS TAKEN ---
     1. Backup live site with UpdraftPlus
