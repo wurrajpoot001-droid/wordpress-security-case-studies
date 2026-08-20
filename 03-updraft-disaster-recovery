@@ -30,10 +30,13 @@ Client fear: "What if you break my site?" - This case proves 100% safe workflow 
 - Completed: 6:45
 
 ## Evidence
-- Before: 02-Disaster/01-error-db-connection.png
-- Backup: 01-Backup/03-backup-complete.png
-- Restore Progress: 03-Restore/02-restoring-progress.png
-- After: 04-Verify/01-site-working-after-restore.png
+- Before: 02-Disaster/
+
+
+- Backup: 01-Backup/
+
+- After: 04-Verify
+
 - Timer: 04-Verify/04-timer-4mins-12secs.png
 
 ## Tools Used
