@@ -61,7 +61,7 @@ Client site completely broken - "Cannot select database" error after hosting cra
 ## Evidence
 - 4 screenshots Before/After + Collage
 - Timer: 04:12
-- <img width="1600" height="2400" alt="CS02-Collage-LinkedIn-Final" src="https://github.com/user-attachments/assets/7289adba-1744-41e7-a255-0660dd9e8279" />
+- <img width="1660" height="1540" alt="case-study-updraft-collage-linkedin-fb" src="https://github.com/user-attachments/assets/6fc2fa49-0d0f-44f7-98c4-9479a05d2b02" />
 
 
 ## Value
